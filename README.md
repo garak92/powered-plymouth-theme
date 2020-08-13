@@ -1,12 +1,12 @@
 # powered-plymouth-theme
 
-A plymouth theme forked from the wonderful tux-plymouth-theme.
+A plymouth theme forked from the wonderful tux-plymouth-theme (https://github.com/Tux4Ubuntu/tux-plymouth-theme).
 The idea is the same: to have a Tux themed plymouth-theme. Except now the Tux logo is more stylized and it has the phrase "Powered by GNU/Linux" so
 everyone knows what you are using! 
 Sadly, I could not find the author of the image. Please, if you are the author, let me know, and apologies in advance.
 
 
-INSTALLATION INSTRUCTIONS
+INSTALLATION INSTRUCTIONS (tried on Pop!_OS 20.04)
 
 1. sudo git clone https://github.com/garak92/tux-plymouth-theme/
 2. cd powered-plymouth-theme/
