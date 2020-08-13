@@ -13,7 +13,7 @@ INSTALLATION INSTRUCTIONS (tried on Pop!_OS 20.04)
 3. sudo mv powered-plymouth-theme/ /usr/share/plymouth/themes/ 
 4. sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/powered-plymouth-theme/powered-plymouth-theme.plymouth 100
 4. sudo update-alternatives --config default.plymouth (here you will be prompted to choose your theme)
-5. sudo update-initramfs
+5. sudo update-initramfs -u
 
 ORIGINAL CREDITS AND ATTRIBUTION
  
