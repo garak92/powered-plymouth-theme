@@ -42,5 +42,5 @@ CREDITS AND ATTRIBUTION
         Downloaded from: http://www.dafont.com/suplexmentary-comic-nc.font?l[]=10&l[]=1
         License: 100% Free
         
-    THIS FOR MADE POSSIBLE by:
+    THIS FORK MADE POSSIBLE by:
          garak92
