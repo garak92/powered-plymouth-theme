@@ -12,11 +12,13 @@
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 
 
-INSTALL INSTRUCTIONS
+INSTALL INSTRUCTIONS (in progress...)
 
-    For the latest version and install instructions visit:
-    [tux4ubuntu](http://tux4ubuntu.org)
-
+1. cd /usr/share/plymouth/themes/
+2. sudo git clone https://github.com/garak92/tux-plymouth-theme/
+3. sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/powered-plymouth-theme/powered-plymouth-theme.plymouth 100
+4. sudo update-alternatives --config default.plymouth (here you will be prompted to choose your theme)
+5. sudo update-initramfs
 
 CREDITS AND ATTRIBUTION
  
