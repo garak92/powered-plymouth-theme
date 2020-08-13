@@ -1,15 +1,9 @@
-# tux-plymouth-theme
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║ TUX 4 UBUNTU - TUX PLYMOUTH THEME                   © The Tux4Ubuntu Initiative ║
-║ – Let's bring Tux to Ubuntu                               http://tux4ubuntu.org ║
-╠═════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                 ║
-║   Ubuntu is nice but it needs to TUXedo up with Tux! Through this Plymouth      ║
-║   theme you'll see Tux greet you at boot and shutdown.                          ║
-║                                                                                 ║
-║   Read more and support our cause at <http://tux4ubuntu.org>                    ║
-║                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════╝
+# powered-plymouth-theme
+
+A plymouth theme forked from the wonderful tux-plymouth-theme.
+The idea is the same: to have a Tux themed plymouth-theme. Except now the Tux logo is more stylized and it has the phrase "Powered by GNU/Linux" so
+everyone knows what you are using! 
+Sadly, I could not find the author of the image. Please, if you are the author, let me know.
 
 
 INSTALL INSTRUCTIONS (in progress...)
@@ -20,7 +14,7 @@ INSTALL INSTRUCTIONS (in progress...)
 4. sudo update-alternatives --config default.plymouth (here you will be prompted to choose your theme)
 5. sudo update-initramfs
 
-CREDITS AND ATTRIBUTION
+ORIGINAL CREDITS AND ATTRIBUTION
  
     THEME written and designed by:
         Tuxedo Joe (Josef Norlin) <http://github.com/tuxedojoe>. 
