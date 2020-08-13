@@ -9,7 +9,7 @@ Window.SetBackgroundBottomColor(0, 0, 0);
 
 if (Plymouth.GetMode () == "shutdown")
 {
-logo.image = Image("tux/shutdown_00001.png");        
+logo.image = Image("tux/boot.png");        
 }
 
 
