@@ -3,7 +3,7 @@
 A plymouth theme forked from the wonderful tux-plymouth-theme.
 The idea is the same: to have a Tux themed plymouth-theme. Except now the Tux logo is more stylized and it has the phrase "Powered by GNU/Linux" so
 everyone knows what you are using! 
-Sadly, I could not find the author of the image. Please, if you are the author, let me know.
+Sadly, I could not find the author of the image. Please, if you are the author, let me know, and apologies in advance.
 
 
 INSTALL INSTRUCTIONS (in progress...)
