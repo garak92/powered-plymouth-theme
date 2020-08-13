@@ -36,3 +36,8 @@ ORIGINAL CREDITS AND ATTRIBUTION
         Jayvee Enaguas, at: http://harvettfox96.deviantart.com/
         Downloaded from: http://www.dafont.com/suplexmentary-comic-nc.font?l[]=10&l[]=1
         License: 100% Free
+        
+        
+SAMPLE SCREENSHOT:
+
+![Alt text](/powered-plymouth-theme/screenshot.png?raw=true "Powered by GNU/Linux!")
