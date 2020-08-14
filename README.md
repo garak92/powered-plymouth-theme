@@ -7,7 +7,7 @@ Sadly, I could not find the author of the image. Please, if you are the author, 
 
 
 INSTALLATION INSTRUCTIONS (tried on Pop!_OS 20.04)
-
+Method 1:
 1. git clone https://github.com/garak92/powered-plymouth-theme/
 2. cd powered-plymouth-theme/
 3. sudo mv powered-plymouth-theme/ /usr/share/plymouth/themes/ 
@@ -15,6 +15,11 @@ INSTALLATION INSTRUCTIONS (tried on Pop!_OS 20.04)
 4. sudo update-alternatives --config default.plymouth (here you will be prompted to choose your theme)
 5. sudo update-initramfs -u
 
+Method 2:
+1. git clone https://github.com/garak92/powered-plymouth-theme/
+2. cd powered-plymouth-theme/
+3. chmod +x install.sh
+4. ./install.sh
 ORIGINAL CREDITS AND ATTRIBUTION
  
     THEME written and designed by:
