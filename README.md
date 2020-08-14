@@ -20,6 +20,7 @@ Method 2:
 2. cd powered-plymouth-theme/
 3. chmod +x install.sh
 4. ./install.sh
+
 ORIGINAL CREDITS AND ATTRIBUTION
  
     THEME written and designed by:
