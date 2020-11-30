@@ -1,6 +1,4 @@
 #!/bin/bash
-git clone https://github.com/garak92/powered-plymouth-theme/ #clone repo
-cd powered-plymouth-theme/ #cd into the folder
 sudo mv powered-plymouth-theme/ /usr/share/plymouth/themes/ #move it to the themes floder
 sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/powered-plymouth-theme/powered-plymouth-theme.plymouth 100 #Install it
 sudo update-alternatives --config default.plymouth #Choose it as default
